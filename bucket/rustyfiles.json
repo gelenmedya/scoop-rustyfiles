@@ -1,13 +1,13 @@
 {
-    "version": "0.9.4",
+    "version": "0.9.5",
     "description": "A fast file manager for Windows, written in Rust.",
     "homepage": "https://rustyfiles.com",
     "license": "MIT",
     "notes": "Settings live in %APPDATA%\\rustyfiles and stay when the app is updated or removed.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gelenmedya/rustyfiles/releases/download/v0.9.4/rustyfiles-win-Portable.zip",
-            "hash": "de7fb495a39250a470e254fd6b5625a24a74c07b6aea8ed39f851f0f6940a88b"
+            "url": "https://github.com/gelenmedya/rustyfiles/releases/download/v0.9.5/rustyfiles-win-Portable.zip",
+            "hash": "d9345913d366d503d87728ac0eeb615d65f99d25a036b5e905f23974f6822f38"
         }
     },
     "shortcuts": [
